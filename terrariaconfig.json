@@ -7,7 +7,7 @@
         "Description": "Which world seed to use when generating a new world",
         "FieldName": "Seed",
         "ParamFieldName": "seed",
-        "placeholder": "PoweredByAMP",
+        "placeholder": "BeyerHosting",
         "suffix": "",
         "InputType": "text",
         "IncludeInCommandLine": true,
