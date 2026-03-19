@@ -50,7 +50,7 @@
         "FieldName": "name",
         "InputType": "text",
         "ParamFieldName": "$.name",
-        "DefaultValue": "AMP Powered Factorio Server",
+        "DefaultValue": "Beyer Hosting - Factorio",
         "EnumValues": {}
     },
     {
