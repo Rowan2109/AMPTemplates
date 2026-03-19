@@ -58,7 +58,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "PublicName",
         "IncludeInCommandLine": false,
-        "DefaultValue": "AMP Powered PZ Server",
+        "DefaultValue": "Beyer Hosting - Project Zomboid",
         "Placeholder": "AMP Powered PZ Server",
         "EnumValues": {}
     },
