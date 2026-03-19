@@ -41,7 +41,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "$.ServerName",
         "IncludeInCommandLine": false,
-        "DefaultValue": "Vintage Story Server - Powered by AMP",
+        "DefaultValue": "Beyer Hosting - Vintage Story",
         "EnumValues": {}
     },
     {
