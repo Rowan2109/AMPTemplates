@@ -58,7 +58,7 @@
         "FieldName": "name",
         "InputType": "text",
         "ParamFieldName": "$.name",
-        "DefaultValue": "AMP Powered Enshrouded Server",
+        "DefaultValue": "Beyer Hosting - Enshrouded",
         "EnumValues": {}
     },
     {
