@@ -97,8 +97,8 @@
         "IsFlagArgument": false,
         "ParamFieldName": "seed",
         "IncludeInCommandLine": true,
-        "DefaultValue": "Powered By AMP",
-        "Placeholder": "Powered By AMP",
+        "DefaultValue": "Powered By Beyer Hosting",
+        "Placeholder": "Powered By Beyer Hosting",
         "EnumValues": {}
     },
     {
