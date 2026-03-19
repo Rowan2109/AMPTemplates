@@ -8,7 +8,7 @@
         "FieldName": "server-name",
         "InputType": "text",
         "ParamFieldName": "server-name",
-        "DefaultValue": "AMP Powered Minecraft Bedrock Server",
+        "DefaultValue": "Beyer Hosting - Minecraft Bedrock Server",
         "EnumValues": {}
     },
     {
