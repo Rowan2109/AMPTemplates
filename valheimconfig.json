@@ -9,7 +9,7 @@
         "ParamFieldName": "name",
         "IncludeInCommandLine": false,
         "Required": true,
-        "DefaultValue": "My Valheim Server - Powered by AMP"
+        "DefaultValue": "Beyer Hosting - Valheim"
     },
     {
         "DisplayName": "World Name",
